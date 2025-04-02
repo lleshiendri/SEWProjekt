@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aa76ff8-40a4-48b3-a364-a8423bb09fbf" name="Changes" comment="albin branch" />
+    <list default="true" id="4aa76ff8-40a4-48b3-a364-a8423bb09fbf" name="Changes" comment="Creating albin branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +13,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="albin" />
+        <entry key="$PROJECT_DIR$" value="devil" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vA3I1008mzywF6xXHMoi1mURX7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +31,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "albin",
+    "git-widget-placeholder": "Albin-",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743573967430</updated>
       <workItem from="1743573968535" duration="966000" />
+      <workItem from="1743574951826" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="albin branch">
       <option name="closed" value="true" />
@@ -75,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743574567731</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating albin branch">
+      <option name="closed" value="true" />
+      <created>1743575090912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743575090912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +102,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="albin" />
+                        <option value="origin/devil" />
                       </list>
                     </value>
                   </entry>
@@ -107,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="albin branch" />
     <MESSAGE value="delete branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete branch" />
+    <MESSAGE value="Creating albin branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating albin branch" />
   </component>
 </project>
